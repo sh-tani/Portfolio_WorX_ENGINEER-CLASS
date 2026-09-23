@@ -44,10 +44,10 @@ https://yamatabi-planner.vercel.app/
 ※空白を2つ開けて「-」から始めることで、箇条書きが2段目になります。三段目は空白を4つ開ければ可能です。
 
 ## テスト・修正の設計及び実施書
-[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
+[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/19bm9xpost1KeBzw9kJJPMmsAUKpjzRaUpupmFMVmeOU/edit?usp=sharing)
 
 ## アプリの改善案
-[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1fgynpBKhx8zaNkMweeYVQl52bP6Z8dJZOmmY8MHXjQM/edit?usp=sharing)
+[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ucYvypE9kCnSirvhEIeS9SnbHmBWuXX1j5jyS2leMlA/edit?usp=sharing)
 
 ## 備考
 [ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
