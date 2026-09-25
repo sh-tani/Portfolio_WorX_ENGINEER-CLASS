@@ -9,7 +9,8 @@ week9終盤以降で用いる、ポートフォリオ用GitHubの例です
 ## サイトイメージ
 メインページの画像を貼れると良いです。
 
-![アプリ画面](https://github.com/sh-tani/Portfolio_WorX_ENGINEER-CLASS/blob/b89fd157c108b6fc5ccd2e0776c4113026a650a0/docs/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.png?raw=true)
+![アプリ画面](CLASS/blob/d6de238b919acbe7f6bc0bb7d2917c0684ca61f6/docs/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.png?raw=true)
+https://github.com/sh-tani/Portfolio_WorX_ENGINEER-
 
 ## サイトURL
 
