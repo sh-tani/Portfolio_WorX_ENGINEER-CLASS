@@ -50,7 +50,7 @@ https://yamatabi-planner.vercel.app/
 [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ucYvypE9kCnSirvhEIeS9SnbHmBWuXX1j5jyS2leMlA/edit?usp=sharing)
 
 ## 備考
-[ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
+[ESLintの実行結果_GitHub Actions](https://github.com/sh-tani/holiday-planner/actions)
 
 - 活用した生成AIとその用途
   - ChatGPT：要件定義、設計、各種リサーチ
