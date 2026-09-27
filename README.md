@@ -21,7 +21,7 @@ https://yamatabi-planner.vercel.app/
 
 ## 使用技術
 - フロントエンド：Next.js 15.3
-- バックエンド：Next.js 15.3、~Python 3.13.3（FastAPI0.115.12）~
+- バックエンド：Next.js 15.3
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
