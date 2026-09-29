@@ -23,7 +23,6 @@ https://yamatabi-planner.vercel.app/
 - テスト・デバッグ：DevTools（Chrome）
 - CI/CD：GitHub Actions（ESLint）
 
-※箇条書きは「-」のあとに空白を入れて本文を始めることで可能です。
 
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1DZGjB_i8kyIdmLThLy9QimfQoCkisRKI95MAbz4pGZ0/edit?gid=0#gid=0)
@@ -32,11 +31,8 @@ https://yamatabi-planner.vercel.app/
 
 ## 機能一覧
 - ユーザー登録、ログイン機能（メールアドレスとGoogleアカウント）
-- ブログ投稿機能
-- チャットボット機能
-  - Gemini 2.0 flashモデルを使用
-
-※空白を2つ開けて「-」から始めることで、箇条書きが2段目になります。三段目は空白を4つ開ければ可能です。
+- 予定登録機能
+- 予報に応じたおすすめ度の算出機能
 
 ## テスト・修正の設計及び実施書
 [テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/19bm9xpost1KeBzw9kJJPMmsAUKpjzRaUpupmFMVmeOU/edit?usp=sharing)
