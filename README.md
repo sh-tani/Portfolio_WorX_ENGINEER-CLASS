@@ -1,27 +1,22 @@
 # Portfolio_WorX_ENGINEER-CLASS
-week9終盤以降で用いる、ポートフォリオ用GitHubの例です
 
 ## アプリ概要
-例：Next.jsとSupabaseを用いたブログアプリです。  
-↑  
-面接官が一目で分かるように、使用技術とアプリ概要を端的に記述しましょう。
+Next.jsとSupabaseを用いた登山の予定管理・計画補助アプリです。
 
 ## サイトイメージ
-メインページの画像を貼れると良いです。
 
 ![アプリ画面](https://github.com/sh-tani/Portfolio_WorX_ENGINEER-CLASS/blob/d6de238b919acbe7f6bc0bb7d2917c0684ca61f6/docs/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.png?raw=true)
 
 ## サイトURL
 
-デプロイした後のアプリのメインページURLを貼りましょう。  
 https://yamatabi-planner.vercel.app/
 
 
 「画面中部のゲストログインボタンから、メールアドレスとパスワードを入力せずにログインできます。」といった仕様を作れれば、面接官も試しやすいと思います。
 
 ## 使用技術
-- フロントエンド：Next.js 15.3
-- バックエンド：Next.js 15.3
+- フロントエンド：Next.js 16.3.3
+- バックエンド：Next.js 16.3.3
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
